@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dBrowser/dbrowser-error-messages.git"
   },
   "keywords": [
-    "beaker"
+    "dbrowser"
   ],
   "author": "Jared <jared@gmail.com>",
   "license": "MIT",
