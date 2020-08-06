@@ -1,4 +1,4 @@
-# dBrowser error constants
+# dBrowser error messages
 
 Module containing all of the errors used by dBrowser, or its submodules.
 
